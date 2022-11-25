@@ -1,1 +1,9 @@
-
+1- intro
+2- Use case
+3- Activity diagram
+4- Class diagram
+5- State diagram
+6- Sequence diagram
+7A- Component diagram
+7B- Deploymnet diagram
+8- 
